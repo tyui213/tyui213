@@ -1,5 +1,4 @@
-## Hi there 👋
-# 서원대학교
+![header](https://서원대학교-컴퓨터공학과.vercel.app/api?type=soft&color=hexcode&height=300&section=header&text=capsule%20render&fontSize=60)
 ## 컴퓨터공학과
 ### 1학년
 <!--
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
