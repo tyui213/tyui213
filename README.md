@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=tyui213.tyui213)
 
 ---
 
@@ -14,23 +14,15 @@
 ---
 
 ## 💡 현재 배우는 내용
-''' c 언어 파이썬등을 배우고 있어요```
+
+```c
+// C언어와 Python을 배우고 있어요.
+#include <stdio.h>
+
+int main() {
+    printf("C언어와 Python 기초 공부 중입니다!\\n");
+    return 0;
+}
 
 
-
-깃허브
- ![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
- 
-파이썬
-	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
- 
- 
-깃허브
-	![yourusername's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-
- ![Uploading image.png…]()
 
