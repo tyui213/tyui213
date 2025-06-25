@@ -1,7 +1,7 @@
 ## Hi there 👋
-#서원대학교
-##컴퓨터공학과
-###1학년
+# 서원대학교
+## 컴퓨터공학과
+### 1학년
 <!--
 **tyui213/tyui213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
