@@ -24,5 +24,9 @@ int main() {
     return 0;
 }
 
+![tyui213's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyui213&show_icons=true&theme=radical)
+
+![tyui213's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyui213&theme=radical)
+
 
 
