@@ -16,14 +16,17 @@
 ## 💡 현재 배우는 내용
 ''' c 언어 파이썬등을 배우고 있어요```
 
+
+
+깃허브
  ![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
  
-
+파이썬
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
  
  
-
+깃허브
 	![yourusername's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
